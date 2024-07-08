@@ -2,7 +2,7 @@
   "name": "testunitaire",
   "version": "1.0.0",
   "description": "",
-  "main": "inverse.js",
+  "main": "calculator.js",
   "scripts": {
     "test": "jest --coverage"
   },
